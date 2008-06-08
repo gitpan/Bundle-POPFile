@@ -9,7 +9,6 @@ WriteMakefile(
     ABSTRACT_FROM       => 'lib/Bundle/POPFile.pm',
     PL_FILES            => {},
     PREREQ_PM           => { 
-            'BerkeleyDB' => 0,
             'DBI' => 0,
             'Date::Format' => 0,
             'Date::Parse' => 0,

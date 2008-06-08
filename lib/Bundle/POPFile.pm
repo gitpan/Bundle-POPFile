@@ -1,6 +1,6 @@
 package Bundle::POPFile;
 
-$VERSION = '1.01';
+$VERSION = '1.02';
 
 
 
@@ -14,6 +14,12 @@ Bundle::POPFile - The modules needed by POPFile in one clean bundle
 =head1 SYNOPSIS
 
 C<perl -MCPAN -e 'install Bundle::POPFile'>
+
+=head1 DESCRIPTION
+
+This bundle will give you all the module dependencies of POPFile L<http://getpopfile.org/>
+with a single cpan install command. Please note that no modules for the database
+backend are included, except L<DBI>.
 
 =head1 CONTENTS
 

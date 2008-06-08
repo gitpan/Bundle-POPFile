@@ -3,3 +3,4 @@ MANIFEST
 Makefile.PL
 README
 lib/Bundle/POPFile.pm
+META.yml                                 Module meta-data (added by MakeMaker)
