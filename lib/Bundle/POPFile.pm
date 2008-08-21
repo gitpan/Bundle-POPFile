@@ -1,6 +1,6 @@
 package Bundle::POPFile;
 
-$VERSION = '1.1.0';
+$VERSION = '1.1_0';
 
 1;
 
@@ -12,7 +12,7 @@ Bundle::POPFile - The modules needed by POPFile in one clean bundle
 
 =head1 VERSION
 
-This is version 1.1.0 of the bundle for POPFile 1.1.0
+This is version 1.1_0 of the bundle for POPFile 1.1.0
 
 =head1 SYNOPSIS
 
