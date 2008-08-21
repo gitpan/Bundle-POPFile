@@ -1,5 +1,12 @@
 Revision history for Bundle-POPFile
 
+1.1.0   2008-08-20
+        New POPFile release.
+
+1.02    2008-06-08
+        Change version number scheme to match that of POPFile.
+        Change URL to POPFile's homepage.
+
 0.01    2007-10-07
         First version, released on an unsuspecting world.
 
